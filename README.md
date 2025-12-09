@@ -30,7 +30,7 @@ Dataset Description
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Programming Language:** Python  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
@@ -52,7 +52,7 @@ Dataset Description
 
 ---
 
-## 🧠 Machine Learning Model
+##  Machine Learning Model
 
 - Algorithm: **Random Forest Classifier**
 - Objective: Binary Classification (Fraud = 1, Normal = 0)
